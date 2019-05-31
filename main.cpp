@@ -3,5 +3,6 @@
 usign namespace std;
 void main()
 {
-     
+     int a;
+     a = 1;
 }
