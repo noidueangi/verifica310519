@@ -3,5 +3,8 @@
 using namespace std;
 void main()
 {
+     int a;
+     cout<<"Quanto vale a? ";
+     cin>>a;
      
 }
